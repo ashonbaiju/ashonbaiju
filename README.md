@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ashon Baiju</h1>
-<h3 align="center">A passionate Web Designer & Developer</h3>
+<h1 align="center">Hi there, I'm Ashon Baiju <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"></h1>
+
+<h3 align="center">Passionate Web Designer & Developer</h3>
 
 <div align="center">
   <a href="https://ashonbaiju.github.io">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Immersive+Digital+Experiences;Front-End+Developer+%26+Designer;Studying+Data+Science+%26+Cybersecurity&font=Fira+Code&center=true&width=500&height=50&color=31A8FF&vCenter=true&pause=1000" alt="Typing Animation">
   </a>
 </div>
+
+<br/>
 
 <p align="center">
   <a href="https://ashonbaiju.github.io" target="_blank">
@@ -24,46 +27,55 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **JuleBi** and crafting magical logo reveal animations.
-- 🌱 I’m currently diving into **Data Science** and **Cybersecurity**.
-- 💻 I love bridging the gap between striking graphic design and seamless front-end development.
-- 👨‍💻 All of my projects are available at [ashonbaiju.github.io](https://ashonbaiju.github.io)
-- 📫 How to reach me: **ashonbaiju123@gmail.com**
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,cpp&perline=7" alt="Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,ps,ai,pr,figma&perline=7" alt="Tools" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on <b>JuleBi</b> and crafting magical logo reveal animations.</li>
+        <li>🌱 I’m currently diving into <b>Data Science</b> & <b>Cybersecurity</b>.</li>
+        <li>👨‍💻 All of my projects are available at <a href="https://ashonbaiju.github.io">my portfolio</a>.</li>
+        <li>💻 I love bridging the gap between striking graphic design & seamless front-end development.</li>
+        <li>📫 How to reach me: <b>ashonbaiju123@gmail.com</b></li>
+      </ul>
+    </td>
+    <td valign="center" width="45%">
+      <div align="center">
+        <!-- You can swap this URL with any aesthetic coding GIF you prefer -->
+        <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="100%" alt="coding gif">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<!-- Fixed Analytics with standard sizes and side-by-side layout -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,cpp,firebase,mysql,sqlite,ps,ai,pr,figma&perline=10" alt="Tech Stack"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashonbaiju&show_icons=true&theme=radical&hide_border=true" alt="Ashon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashonbaiju&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ashon's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashonbaiju&theme=radical&hide_border=true" alt="Ashon's Streak Stats" />
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashonbaiju&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
   <picture>
