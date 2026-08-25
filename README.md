@@ -31,9 +31,9 @@
 
 I am a passionate web designer and developer focused on bridging the gap between striking graphic design and seamless front-end development. I also love producing cinematic videos!
 
-*   🔭 I’m currently working on **JuleBi**.
-*   🌱 I’m studying **Data Science** and exploring **Cybersecurity**.
-*   💻 I recently worked on **camcall.in**.
+*   I’m currently working on **JuleBi**.
+*   I’m studying **Data Science** and exploring **Cybersecurity**.
+*   I recently worked on **camcall.in**.
 
 ---
 
